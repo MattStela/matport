@@ -325,19 +325,31 @@ img {
 }
 
 .skills__css {
-  width: 85%;
+  width: 90%;
 }
 
 .skills__js {
-  width: 65%;
+  width: 30%;
 }
 
 .skills__ux {
-  width: 85%;
+  width: 50%;
 }
 
 .skills__img {
   border-radius: .5rem;
+}
+
+.skills__vue {
+  width: 60%;
+}
+
+.skills__react {
+  width: 20%;
+}
+
+.skills__node {
+  width: 25%;
 }
 
 /* ===== WORK =====*/
